@@ -1,0 +1,15 @@
+H:\Programming\task3\task3\bin\Debug\task3.exe.config
+H:\Programming\task3\task3\bin\Debug\task3.exe
+H:\Programming\task3\task3\bin\Debug\task3.pdb
+H:\Programming\task3\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+H:\Programming\task3\task3\obj\Debug\task3.csproj.SuggestedBindingRedirects.cache
+H:\Programming\task3\task3\obj\Debug\task3.Form1.resources
+H:\Programming\task3\task3\obj\Debug\task3.Properties.Resources.resources
+H:\Programming\task3\task3\obj\Debug\task3.csproj.GenerateResource.cache
+H:\Programming\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+H:\Programming\task3\task3\obj\Debug\task3.exe
+H:\Programming\task3\task3\obj\Debug\task3.pdb
+H:\Programming\task3\task3\obj\Debug\task3.Form2.resources
+H:\Programming\task3\task3\obj\Debug\task3.Form3.resources
+H:\Programming\task3\task3\obj\Debug\task3.Form4.resources
+H:\Programming\task3\task3\obj\Debug\task3.Form5.resources
